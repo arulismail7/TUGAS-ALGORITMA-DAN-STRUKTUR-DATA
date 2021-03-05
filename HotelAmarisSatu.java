@@ -7,7 +7,7 @@ package hotel.amaris.satu;
 
 /**
  *
- * @author Helfi Apriliyandi F
+ *
  */
 public class HotelAmarisSatu {
 
